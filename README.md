@@ -4,6 +4,7 @@ Legacy code can be complex. It often starts simple, but collects complexity as t
 
 This repository has legacy code in it. Let's refactor to enable evolution without adding complexity.
 
+
 ## About this repository
 
 The objective of the code is to monitor battery temperature and prevent damage:
